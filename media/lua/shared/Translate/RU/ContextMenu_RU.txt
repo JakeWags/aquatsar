@@ -24,7 +24,7 @@ ContextMenu_RU = {
 	ContextMenu_bind_boat = "Привязать лодку",
 	ContextMenu_unbind_boat = "Отвязать лодку",
 	
-	ContextMenu_Wooden_Pantone = "Деревянный понтон",
+	ContextMenu_Wooden_Pontoon = "Деревянный понтон",
 	
 	ContextMenu_Open_Cabin = "Открыть каюту",
 	ContextMenu_Open_Cabin_Force = "Открыть каюту<br>(будет использоваться<br>%1)",

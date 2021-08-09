@@ -22,7 +22,7 @@ ContextMenu_PL = {
 	ContextMenu_bind_boat = "Przywiaz lodz",
 	ContextMenu_unbind_boat = "Odwiaz lodz",
 
-	ContextMenu_Wooden_Pantone = "Drewniany poklad",
+	ContextMenu_Wooden_Pontoon = "Drewniany poklad",
 
 	ContextMenu_Open_Cabin = "Otworz kabine",
 	ContextMenu_Open_Cabin_Force = "Otworz kabine<br>(bedzie uzyty<br>%1)",

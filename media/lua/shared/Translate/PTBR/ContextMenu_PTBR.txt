@@ -22,7 +22,7 @@ ContextMenu_PTBR = {
 	ContextMenu_bind_boat = "Amarrar barco",
 	ContextMenu_unbind_boat = "Desamarrar barco",
 
-	ContextMenu_Wooden_Pantone = "Deck de madeira",
+	ContextMenu_Wooden_Pontoon = "Deck de madeira",
 
 	ContextMenu_Open_Cabin = "Destrancar cabine",
 	ContextMenu_Open_Cabin_Force = "Destrancar cabine<br>(sera usado<br>%1)",
